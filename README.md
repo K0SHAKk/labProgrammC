@@ -1,1 +1,1 @@
-# labProgrammC я работаю
+# Шаблон настройки GitHub Actions
